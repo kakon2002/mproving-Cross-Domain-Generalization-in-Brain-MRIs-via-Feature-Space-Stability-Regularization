@@ -83,6 +83,5 @@ This is part of a larger research project on cross-domain generalization in medi
 
 ## Citation
 
-If you use this code in your research, please cite:
-
-[Add citation information when available]
+APA Style
+Kakon, S. C., Jamwal, H. D. S., & Singh, S. (2026). Improving Cross-Domain Generalization in Brain MRIs via Feature Space Stability Regularization. Mathematics, 14(6), 1082. https://doi.org/10.3390/math14061082
